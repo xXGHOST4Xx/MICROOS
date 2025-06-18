@@ -1,5 +1,4 @@
 # MICROOS
-Small Lightweight OS for BBC: MicroBit
-
-For The MicroBit V1 download the file MICROOSV1
-For The MicroBit V2 download the file MICROOSV2
+# MICROBIT V2 ONLY
+Small Lightweight OS for BBC: MicroBit V2
+Download the file MICROOSV2 and put it on your microbit
